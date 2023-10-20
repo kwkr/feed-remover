@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Feed Remover",
+    "version": "1.0",
+    "description": "A browser extension to remove annoying feeds.",
+    "permissions": [
+        "activeTab"
+    ],
+    "icons": {
+        "16": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://www.facebook.com/*","*://www.youtube.com/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
