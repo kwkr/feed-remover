@@ -12,6 +12,8 @@ I wanted to eliminate the intrusive feeds on YouTube and Facebook. However, I wa
 
 # How to setup?
 
+Not into `git`? You can download it directly [here](https://github.com/kwkr/feed-remover/archive/refs/heads/master.zip)
+
 ## Step 1
 After downloading the repo somewhere to your computer, open your browser and navigate to the settings. This guide is compatible with Brave, Chrome, and any browser that supports Chrome extensions.
 
