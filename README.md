@@ -20,7 +20,7 @@ After downloading the repo somewhere to your computer, open your browser and nav
 ![Step 1](./steps/step1.png)
 
 ## Step 2
-Access the extensions tab. (You can also directly go to the following url [Extensions](chrome://extensions))
+Access the extensions tab. (You can also directly go to the following url [Extensions](chrome://extensions), `chrome://extensions`)
 
 ![Step 2](./steps/step2.png)
 
@@ -37,7 +37,9 @@ Click on "Load unpacked" and select the folder containing the code from this rep
 ## Step 5
 Go to [YouTube](https://youtube.com) or [Facebook](https://facebook.com) and enjoy feedless view.
 
-![Step 5](./steps/step5.png)
+Before            |  After
+:-------------------------:|:-------------------------:
+![Step 6](./steps/step6.png)  |  ![Step 5](./steps/step5.png)
 
 # Configuration
-If you'd like to customize the functionality, you can modify the content.js script and manifest.json directly. Remember to reload the extension after making any changes. This can be done from the [Extensions](chrome://extensions) page.
+If you'd like to customize the functionality, you can modify the content.js script and manifest.json directly. Remember to reload the extension after making any changes. This can be done from the [Extensions](chrome://extensions) (`chrome://extensions`) page.
