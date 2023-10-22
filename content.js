@@ -9,7 +9,7 @@ if (domain.includes('facebook')) {
             clearInterval(id);
             console.log('removed feed');
         }
-    }, 100);
+    }, 500);
 }
 
 
@@ -22,5 +22,5 @@ if (domain.includes('youtube')) {
             clearInterval(id1);
             console.log('removed feed');
         }
-    }, 100);
+    }, 500);
 }
