@@ -3,7 +3,7 @@ let domain = window.location.host;
 // Facebook
 if (domain.includes('facebook')) {
     let id = setInterval(() => {
-        const feed = document.querySelector('[role="feed"]');
+        const feed = document.querySelector('[role="main"]');
         if (feed) {
             feed.remove();
             clearInterval(id);
